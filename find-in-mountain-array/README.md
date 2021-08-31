@@ -1,3 +1,4 @@
+[Discussion Post (created on 31/7/2021 at 13:25)](https://leetcode.com/problems/find-in-mountain-array/discuss/1436364/Java-faster-than-100-solution.-Using-3-Binary-searches-at-max-in-O(logn)-time-complexity.)  
 <h2>1095. Find in Mountain Array</h2><h3>Hard</h3><hr><div style="user-select: auto;"><p style="user-select: auto;"><em style="user-select: auto;">(This problem is an&nbsp;<strong style="user-select: auto;">interactive problem</strong>.)</em></p>
 
 <p style="user-select: auto;">You may recall that an array&nbsp;<code style="user-select: auto;">A</code> is a <em style="user-select: auto;">mountain array</em> if and only if:</p>
