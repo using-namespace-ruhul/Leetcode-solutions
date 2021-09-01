@@ -1,3 +1,4 @@
+[Discussion Post (created on 1/8/2021 at 14:57)](https://leetcode.com/problems/split-array-largest-sum/discuss/1438346/Java-Binary-search-solution.)  
 <h2>410. Split Array Largest Sum</h2><h3>Hard</h3><hr><div style="user-select: auto;"><p style="user-select: auto;">Given an array <code style="user-select: auto;">nums</code> which consists of non-negative integers and an integer <code style="user-select: auto;">m</code>, you can split the array into <code style="user-select: auto;">m</code> non-empty continuous subarrays.</p>
 
 <p style="user-select: auto;">Write an algorithm to minimize the largest sum among these <code style="user-select: auto;">m</code> subarrays.</p>
